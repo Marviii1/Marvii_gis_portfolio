@@ -120,6 +120,10 @@
 }
 
 @media (max-width: 480px) {
+  body {
+    font-size: 0.94rem;
+  }
+
   .nav-container {
     padding-left: 0.85rem;
     padding-right: 0.85rem;
@@ -133,12 +137,63 @@
   .nav-link {
     min-height: 44px;
     padding: 0.82rem 0.9rem;
-    font-size: 0.88rem;
+    font-size: 0.84rem;
   }
 
   .profile-image-wrapper {
     width: 140px;
     height: 140px;
+  }
+
+  .hero-greeting {
+    font-size: 1.15rem;
+  }
+
+  .hero-name {
+    font-size: 2.08rem;
+    line-height: 1.08;
+  }
+
+  .hero-roles {
+    font-size: 0.86rem;
+  }
+
+  .hero-description,
+  .section-subtitle,
+  .about-intro,
+  .project-description,
+  .library-card-text,
+  .detail-text,
+  .contact-cta p,
+  .contact-intro-card p {
+    font-size: 0.94rem;
+    line-height: 1.7;
+  }
+
+  .section-label,
+  .detail-label,
+  .portfolio-mini-label,
+  .project-number,
+  .contact-mini-label {
+    font-size: 0.7rem;
+  }
+
+  .section-heading {
+    font-size: 1.72rem;
+    line-height: 1.15;
+  }
+
+  .project-title {
+    font-size: 1.42rem;
+    line-height: 1.2;
+  }
+
+  .library-card-title,
+  .cert-title,
+  .contact-intro-card h3,
+  .contact-cta h3 {
+    font-size: 1.08rem;
+    line-height: 1.25;
   }
   
   .hero-cta {
@@ -148,6 +203,7 @@
   .btn {
     width: 100%;
     justify-content: center;
+    font-size: 0.88rem;
   }
   
   .stats-grid {
@@ -177,8 +233,8 @@
   }
 
   .project-page-title {
-    font-size: 1.65rem;
-    line-height: 1.18;
+    font-size: 1.48rem;
+    line-height: 1.2;
   }
 
   .project-page-visual {
