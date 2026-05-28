@@ -24,7 +24,7 @@
         <span class="role-dot"></span>
         <span>Spatial Data Scientist</span>
         <span class="role-dot"></span>
-        <span>Remote Sensing Specialist</span>
+        <span>Python geospatial Developer</span>
       </div>
       
       <p class="hero-description">
@@ -43,7 +43,7 @@
       </div>
       
       <div class="hero-social">
-        <a href="https://github.com/adelekemarvellous4" target="_blank" class="social-link" aria-label="GitHub">
+        <a href="https://github.com/Marviii1" target="_blank" class="social-link" aria-label="GitHub">
           <i class="fab fa-github"></i>
         </a>
         <a href="https://linkedin.com/in/adelekemarvellous14" target="_blank" class="social-link" aria-label="LinkedIn">
