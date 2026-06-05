@@ -24,7 +24,7 @@
         <span class="role-dot"></span>
         <span>Spatial Data Scientist</span>
         <span class="role-dot"></span>
-        <span>Python geospatial Developer</span>
+        <span>Python geospatial Developer </span>
       </div>
       
       <p class="hero-description">
