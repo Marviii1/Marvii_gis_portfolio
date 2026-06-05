@@ -28,7 +28,7 @@
       </div>
       
       <p class="hero-description">
-        I design spatial intelligence systems that transform satellite data, GIS workflows, and environmental modelling into actionable insights for land systems, climate analysis, and urban change.
+        Turning satellite imagery and Earth Observation data into actionable environmental decisions, from urban heat mapping to predictive models on GEE and WebGIS.
       </p>
       
       <div class="hero-cta">

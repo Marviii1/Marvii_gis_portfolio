@@ -5,12 +5,12 @@
   <div class="container">
     <div class="fade-up" style="text-align: center; margin-bottom: 3rem;">
       <span class="section-label">About Me</span>
-      <p class="section-heading">Transforming geospatial data into actionable intelligence</p>
+      <p class="section-heading">Transforming geospatial data into actionable intelligence.</p>
     </div>
     
     <div class="about-content">
       <p class="about-intro fade-up">
-        I am a <strong>geospatial analyst</strong> specializing in remote sensing, spatial modelling, GIS programming, and environmental intelligence. My work focuses on extracting insights from satellite imagery, building predictive spatial models, and developing geospatial tools using Python and WebGIS technologies.
+        I am a <strong>GIS analyst, Spatial data scientist and Python geosoatial developer</strong> specializing in remote sensing, spatial modelling and GIS programming. I extract insights from satellite imagery, spatial dataset and build Python-based spatial models and deploy them across WebGIS platforms. My toolkit includes ArcGIS Pro, QGIS, Google Earth Engine, and the full Python geospatial stack (rasterio, geopandas, xarray, GDAL, scikit-learn)..
       </p>
     
       
@@ -47,6 +47,7 @@
               <span class="tech-tag">JavaScript</span>
               <span class="tech-tag">GeoPandas</span>
               <span class="tech-tag">Rasterio</span>
+              <span class="tech-tag">Google Colab</span>
             </div>
           </div>
           
